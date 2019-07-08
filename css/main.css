@@ -67,3 +67,13 @@ header { height: 552px; background: url(../img/bg.png); background-repeat: no-re
 .team { margin-top: 60px; padding-bottom: 40px; background-color: #f6f4fc; background: url(../img/dots.png); }
 
 .team-img { max-width: 300px; }
+
+.content { text-align: left; margin-top: 10px; padding-top: 15px; background-color: #f8f8ff; padding-bottom: 40px; }
+
+.content img { width: 100%; max-width: 900px; }
+
+.content h1 { color: #333; }
+
+.content p { font-family: "Roboto"; opacity: .7; }
+
+.sidebar { background-color: #aaa; margin-top: 10px; }
