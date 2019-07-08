@@ -30,15 +30,25 @@
     margin: 0;
     width: 100%!important;
   }
+  .work_process__item{
+    margin: 0 auto;
+  }
+  #header_person_about{
+    display: none;
+  }
   #header_leaf, #LeafLeft, #LeafRight{
     display: none
   }
-  #header_text{
+  #header_text, #header_text__about{
+    width: 100%;
     display: flex;
     justify-content: center;
-    margin: 0;
+    margin: 0 auto;
     margin-top: 135px;
-    margin-left: 50px;
+  }
+  #header_text__about{
+    margin-left: 2px;
+    font-size: 70px;
   }
 
   .brands .col-md-2 img{
@@ -78,6 +88,31 @@
   }
   .clients{
     margin: 0;
+  }
+  .work_process{
+    margin-top: 40px;
+  }
+  .team .col-md-4 img{
+    max-width: 100%!important;
+    margin: 0 auto;
+  }
+  .team .col-md-4{
+    width: 100%;
+    padding: 0;
+    margin: 0 auto;
+  }
+  .footer{
+    margin-top: 200px;
+  }
+  #header_text_person{
+    text-align: center;
+    padding: 10px;
+    margin: 0;
+    margin-top: -20px;
+    width: 100%;
+  }
+  div.col-md-2{
+    margin: 0 auto;
   }
 }
 

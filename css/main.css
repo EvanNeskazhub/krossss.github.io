@@ -1,1 +1,69 @@
-section{text-align:center}section h1{color:#000000;font-family:Poppins;font-size:60px;font-weight:700;line-height:86px}.nav-link{color:#fff !important;font-family:"Playfair Display";font-size:18px;font-weight:400;text-transform:uppercase}.bg-light{background:none !important}header{height:552px;background:url(../img/bg.png);background-repeat:no-repeat;background-size:cover}#header_leaf{transition:all .3s;position:absolute;margin-left:20%;margin-top:410px}#header_text{color:#ffffff;font-size:100px;font-weight:900;position:absolute;margin-top:280px;margin-left:60%}#header_text__about{color:#ffffff;font-size:100px;font-weight:900;position:absolute;margin-top:280px;margin-left:5%}#header_person_about{margin-left:38%;margin-top:10px;border-radius:20px;border:10px solid #fff;max-width:400px}#header_leaf:hover,#LeafLeft:hover,#LeafRight:hover{transform:scale(1.07)}#header_text_about{margin-top:-220px;margin-left:30px;width:710px;color:#000000;font-family:"Playfair Display";font-size:18px;font-weight:400}.navbar-brand{font-family:"Poppins";color:#fff !important;font-size:100px;font-weight:900}#LeafLeft{transition:all .3s;float:left}#LeafRight{transition:all .3s;float:right}.link-active{border-bottom:2px solid #fff;margin-top:-2px}.card{border:none;color:#000000}.card .card-title{font-family:"Playfair Display";font-size:22px;font-weight:400}.card .card-text{opacity:.7;font-family:Roboto;font-size:15px;font-weight:300}.works{margin-top:100px}.pagination-block{display:flex;justify-content:center}.clients{margin-top:120px;margin-bottom:150px}.brands{margin-top:25px;margin-bottom:70px}.contact{position:relative;height:525px;max-height:525px;text-align:center;background:url(../img/dots.png)}.contact .contact-form{background-color:#fff;position:absolute;left:50%;margin-left:-250px;max-width:600px}.contact input,.contact textarea{border-radius:0 !important;border:none;border-bottom:2px solid #c7c7c7}.contact .btn-contact{width:356px;height:59px;border-radius:6px;background-color:#41228e;color:#ffffff;font-family:"Playfair Display";font-size:22px;font-weight:400;text-transform:uppercase}footer{padding:10px;text-align:center;color:#fff;background-color:#222222}.work_process{padding-bottom:20px;margin-top:150px;text-align:center}.work_process .row{margin:0 auto}.work_process__item{margin-top:25px;width:269px}.work_process__item h3{margin-top:15px;margin-bottom:15px;color:#000000;font-family:"Playfair Display";font-size:22px;font-weight:400}.work_process__item p{opacity:.7;color:#000000;font-family:Roboto;font-size:15px;font-weight:400;line-height:28px}.team{margin-top:60px;padding-bottom:40px;background-color:#f6f4fc;background:url(../img/dots.png)}.team-img{max-width:300px}
+section { text-align: center; }
+
+section h1 { color: #000000; font-family: Poppins; font-size: 60px; font-weight: 700; line-height: 86px; }
+
+textarea { width: 90%; height: 200px; resize: none; }
+
+.nav-link { color: #ffffff !important; font-family: "Playfair Display"; font-size: 18px; font-weight: 400; text-transform: uppercase; }
+
+.bg-light { background: none !important; }
+
+header { height: 552px; background: url(../img/bg.png); background-repeat: no-repeat; background-size: cover; }
+
+#header_leaf { transition: all .3s; position: absolute; margin-left: 20%; margin-top: 410px; }
+
+#header_text { color: #ffffff; font-size: 100px; font-weight: 900; position: absolute; margin-top: 280px; margin-left: 60%; }
+
+#header_text__about { color: #ffffff; margin-top: 300px; font-size: 100px; font-weight: 900; position: absolute; margin-left: 5%; }
+
+#header_person_about { margin-left: 38%; margin-top: 10px; border-radius: 20px; border: 10px solid #fff; max-width: 400px; }
+
+#header_leaf:hover, #LeafLeft:hover, #LeafRight:hover { transform: scale(1.07); }
+
+#header_text_person { margin-top: -150px; margin-left: 30px; width: 710px; color: #000000; font-family: "Playfair Display"; font-size: 18px; font-weight: 400; }
+
+.navbar-brand { font-family: "Poppins"; color: #ffffff !important; font-size: 100px; font-weight: 900; }
+
+#LeafLeft { transition: all .3s; float: left; }
+
+#LeafRight { transition: all .3s; float: right; }
+
+.link-active { border-bottom: 2px solid #fff; margin-top: -2px; }
+
+.card { text-align: left; border: none; color: #000000; }
+
+.card .card-title { font-family: "Playfair Display"; font-size: 22px; font-weight: 400; }
+
+.card .card-text { opacity: .7; font-family: Roboto; font-size: 15px; font-weight: 300; }
+
+.works { margin-top: 100px; }
+
+.pagination-block { display: flex; justify-content: center; }
+
+.clients { margin-top: 40px; margin-bottom: 100px; }
+
+.brands { margin-top: 25px; margin-bottom: 70px; }
+
+.contact { padding-top: 50px; height: 525px; max-height: 525px; text-align: center; background: url(../img/dots.png); }
+
+.contact .contact-form { padding: 20px; margin: 0 auto; background-color: #fff; max-width: 600px; }
+
+.contact input, .contact textarea { border-radius: 0 !important; border: none; border-bottom: 2px solid #c7c7c7; }
+
+.contact .btn-contact { width: 356px; height: 59px; border-radius: 6px; background-color: #41228e; color: #ffffff; font-family: "Playfair Display"; font-size: 22px; font-weight: 400; text-transform: uppercase; }
+
+.footer { padding: 10px; text-align: center; color: #fff; background-color: #222222; }
+
+.work_process { padding-bottom: 20px; margin-top: 150px; text-align: center; }
+
+.work_process .row { margin: 0 auto; }
+
+.work_process__item { margin-top: 25px; width: 269px; }
+
+.work_process__item h3 { margin-top: 15px; margin-bottom: 15px; color: #000000; font-family: "Playfair Display"; font-size: 22px; font-weight: 400; }
+
+.work_process__item p { opacity: .7; color: #000000; font-family: Roboto; font-size: 15px; font-weight: 400; line-height: 28px; }
+
+.team { margin-top: 60px; padding-bottom: 40px; background-color: #f6f4fc; background: url(../img/dots.png); }
+
+.team-img { max-width: 300px; }
